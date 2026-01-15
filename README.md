@@ -2,7 +2,7 @@
 
 Day 1 Project has been completed.
 
-TODO
-Turn into a function
-Add Tests
-Integrate with Gitlab CI Pipeline
+### TODO
+- Turn into a function
+- Add Tests
+- Integrate with Gitlab CI Pipeline
